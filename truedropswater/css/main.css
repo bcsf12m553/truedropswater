@@ -557,7 +557,7 @@ ul.sub-menu {
 
 #home-slider .slider-hill {
   position: absolute;
-  left: 750px;
+  right: 24%;
   bottom: 110px;
 }
 
@@ -643,7 +643,7 @@ ul.sub-menu {
 }
 
 #action {
-  background-image: url(../images/home/tour-bg.png);
+  background-image: url(/images/home/tour-bg.png);
   background-color: #fbfafa;
   background-repeat: repeat-x;
   height: 157px;
