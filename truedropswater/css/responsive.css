@@ -86,7 +86,7 @@
   }
 
   #home-slider .main-slider {
-        height: 500px;
+        height: 250px;
   }
 
   #home-slider .slide-text {
@@ -99,21 +99,22 @@
   }
 
   #home-slider .slider-hill {
-    left:40%;
+    width:100px;
   }
 
   #home-slider .slider-house {
      
-     top: 400px;
-    left: 170px;
-    margin-bottom:50px;
+      bottom:56px;
+      right:130px;
+      width:200px;
+    
   }
 
   #home-slider .slider-sun {
    
-      bottom: 25px;
-    left: 33%;
-    width: 250px;
+      bottom: 38px;
+    right:130px;
+    width: 180px;
   }
 
   #home-slider .slider-birds1 {
@@ -289,15 +290,19 @@
     text-align: center;
   }
 
+   #home-slider .slider-hill {
+    right: 74%;
+    margin-right: -200px;
+  }
 
  
   #home-slider .slider-house {
-    right: 50%;
+    right: 56%;
     margin-right: -125px;
   }
 
   #home-slider .slider-sun {
-    right: 50%;
+    right: 26%;
     margin-right: 60px;
   }
 
